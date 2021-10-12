@@ -1,4 +1,4 @@
-#One image for both AST's: ![GitHub Logo](/Assignment6.png)
+#One image for both AST's: ![GitHub Logo](https://github.com/lipseyj/CSCI_320/blob/main/Assignment6.png)
 1. Format
 2. Syntax Processing <br><br>
   a. kotlinc d hello.jar hello.kt && java jar hello.jar <br><br>
