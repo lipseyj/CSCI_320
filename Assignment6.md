@@ -20,8 +20,8 @@
     kotlinc d hello.jar hello.kt && java word word <br>
     kotlinc d hello.jar hello.kt && java jar word <br>
     kotlinc d hello.jar hello.kt && java jar hello.jar <br><br>
-  b. find name something | grep hello 2> somefile
-    commandline
+  b. find name something | grep hello 2> somefile <br><br>
+    commandline <br>
   (1) list <br>
   (2) conditional <br>
   (3) pipeline <br>
