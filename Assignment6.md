@@ -1,4 +1,4 @@
-#One image for both AST's: <br>
+# One image for both AST's: <br>
 ![GitHub Logo](https://github.com/lipseyj/CSCI_320/blob/main/Assignment6.png)
 1. Format
 2. Syntax Processing <br><br>
